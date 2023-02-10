@@ -1,6 +1,6 @@
 ### Hi 👋, my name is Galuh dawlius suhendra
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galuh-ds&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galuh-ds&show_icons=true&theme=rchartreuse-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galuh-ds&layout=compact)](https://github.com/galuh-ds/github-readme-stats)
 
