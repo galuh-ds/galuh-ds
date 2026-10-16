@@ -1,4 +1,4 @@
-### Hi 👋, my name is Galuh dawlius suhendra
+### Hi 👋, i'm Galuh dawlius suhendra
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galuh-ds&show_icons=true&theme=rchartreuse-dark)
 
