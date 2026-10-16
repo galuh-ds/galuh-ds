@@ -1,6 +1,6 @@
 ### Hi 👋, i'm Galuh dawlius suhendra
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1848F7&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
 
 <!--
 **galuh-ds/galuh-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
