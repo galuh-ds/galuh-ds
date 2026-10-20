@@ -1,6 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=26&pause=1000&color=3B76F7&width=435&lines=I'm+Galuh+Dawlius+Suhendra;Frontend+Web+Developer)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Galuh+Dawlius+Suhendra;Frontend+Developer)](https://git.io/typing-svg)
 
 <!--
 **galuh-ds/galuh-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
